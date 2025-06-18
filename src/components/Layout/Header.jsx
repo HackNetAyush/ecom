@@ -80,7 +80,7 @@ const Header = () => {
     >
       {/* Top bar */}
       <div className="bg-primary-800 text-white text-xs md:text-sm py-2 px-2 md:px-0">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-2 md:gap-0">
+        <div className="max-w-7xl mx-auto flex flex-row md:flex-row justify-between items-center gap-2 md:gap-0">
           <span className="flex items-center">
             <FiMapPin className="w-4 h-4 mr-1" />
             Free shipping on orders over $50
